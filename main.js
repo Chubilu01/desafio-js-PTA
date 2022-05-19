@@ -101,5 +101,3 @@ logo.style.height = '68px';
 logo.style.width = '128px';
 document.body.style.height = '100vh';
 document.body.style.border = '3px solid red';
-
-alert('NÃO DEIXE ELE TOCAR NAS BORDAS, EU IMPLORO!');
