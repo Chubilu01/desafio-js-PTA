@@ -31,6 +31,10 @@ window.addEventListener("keydown", (event) => {
         if(character.classList.contains(direction)) character.classList.remove(direction);
     })
 
+
+
+
+    
     //restringindo a condição do personagem estar vivo para se mover
     if (!isDead) {
         //definindo e limitando a movimentação vertical para cima do personagem (ao pressionar a "seta para cima")
